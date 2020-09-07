@@ -1,0 +1,11 @@
+*{
+	text-decoration: none;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    outline: none;
+    font-family: 'Circe';
+    border-radius: unset;
+	border: none;
+	font-size: 16px;
+}

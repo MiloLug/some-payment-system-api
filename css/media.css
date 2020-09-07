@@ -1,0 +1,16 @@
+@media (max-width: 1366px){
+    #vue-app .header .header-content{
+        max-width: 90%;
+    }
+}
+@media (max-width: 1280px){
+   	#vue-app .common-content-block{
+		max-width: 90%;
+	}
+}
+@media (max-width: 1024px){
+	#vue-app .common-content-block{
+		max-width: 80%;
+		padding-bottom: 0;
+	}
+}
